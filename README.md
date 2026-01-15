@@ -74,10 +74,15 @@ AI 追踪者系统
 **项目结构**
 
 ai-dodger/
+
 ├── ai_dodger.py          # 游戏主程序
+
 ├── game_scores.json      # 分数记录文件（自动生成）
+
 ├── README.md             # 项目说明文档
+
 └── requirements.txt      # 依赖包列表
+
 
 **如果你想对游戏进行自定义修改，可以参考以下几个方向：**
 
